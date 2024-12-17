@@ -1,0 +1,20 @@
+<svg width="54.000000" height="54.000000" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip3_106">
+			<rect id="wind-svgrepo-com" width="54.000000" height="54.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip3_106)">
+		<path id="path" d="M4.52 34.73L4.5 34.75C3.94 34.75 3.5 34.31 3.5 33.75C3.5 33.18 3.94 32.75 4.5 32.75L4.52 32.77L4.52 34.73ZM32.77 40.52L32.75 40.5C32.75 39.93 33.18 39.5 33.75 39.5C34.31 39.5 34.75 39.93 34.75 40.5L34.73 40.52L32.77 40.52Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M4.5 33.75L41.62 33.75C45.96 33.75 49.5 37.28 49.5 41.62C49.5 45.96 45.96 49.5 41.62 49.5C37.28 49.5 33.75 45.96 33.75 41.62L33.75 40.5" stroke="#6C584C" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<g opacity="0.400000">
+			<path id="path" d="M4.52 27.98L4.5 28C3.94 28 3.5 27.56 3.5 27C3.5 26.44 3.94 26 4.5 26L4.52 26.02L4.52 27.98ZM34.73 20.23L34.75 20.25C34.75 20.81 34.31 21.25 33.75 21.25C33.18 21.25 32.75 20.81 32.75 20.25L32.77 20.23L34.73 20.23Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+			<path id="path" d="M4.5 27L41.62 27C45.94 27 49.5 23.46 49.5 19.12C49.5 14.8 45.94 11.25 41.62 11.25C37.3 11.25 33.75 14.78 33.75 19.12L33.75 20.25" stroke="#6C584C" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+		<path id="path" d="M4.52 21.23L4.5 21.25C3.94 21.25 3.5 20.81 3.5 20.25C3.5 19.69 3.94 19.25 4.5 19.25L4.52 19.27L4.52 21.23ZM15.87 15.03L15.89 15.05C15.89 15.61 15.45 16.05 14.89 16.05C14.33 16.05 13.89 15.61 13.89 15.05L13.91 15.03L15.87 15.03Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M4.5 20.25L20.94 20.25C24.3 20.25 27 17.52 27 14.19C27 10.84 24.27 8.14 20.94 8.14C17.59 8.14 14.89 10.86 14.89 14.19L14.89 15.05" stroke="#6C584C" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

@@ -1,0 +1,10 @@
+:root {
+    --milk-clr: rgb(240, 234, 210);
+    --light-green-clr:rgb(221, 229, 182);
+    --green-clr:rgb(173, 193, 120);
+    --milk-chocolate-clr: rgb(169, 132, 103);
+    --chocolate-clr:rgb(108, 88, 76);
+}
+body{
+    font-family: Comfortaa;
+}

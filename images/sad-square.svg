@@ -1,0 +1,18 @@
+<svg width="300.000000" height="300.000000" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip3_65">
+			<rect id="sad-square-svgrepo-com" width="300.000000" height="300.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip3_65)">
+		<path id="path" d="M114.29 214.88L114.28 214.91C112.93 215.91 111.09 215.63 110.09 214.28C109.08 212.93 109.36 211.09 110.71 210.09L110.74 210.09L114.29 214.88ZM189.25 210.09L189.28 210.09C190.63 211.09 190.91 212.93 189.91 214.28C188.91 215.63 187.06 215.91 185.71 214.91L185.7 214.88L189.25 210.09Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M112.5 212.5C123.13 204.62 136.05 200 150 200C163.94 200 176.87 204.62 187.5 212.5" stroke="#6C584C" stroke-opacity="1.000000" stroke-width="6.000000" stroke-linecap="round"/>
+		<ellipse id="ellipse" cx="187.500000" cy="131.250000" rx="12.499999" ry="18.750000" fill="#6C584C" fill-opacity="1.000000"/>
+		<ellipse id="ellipse" cx="112.500000" cy="131.250000" rx="12.499999" ry="18.750000" fill="#6C584C" fill-opacity="1.000000"/>
+		<path id="path" d="M272.01 150.02L272 150C272 148.32 273.32 147 275 147C276.68 147 278 148.32 278 150L277.98 150.02L272.01 150.02ZM277.28 99.83L277.3 99.85C277.39 101.52 276.13 102.91 274.46 102.99C272.78 103.08 271.39 101.82 271.31 100.14L271.33 100.12L277.28 99.83Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M275 150C275 208.92 275 238.38 256.69 256.69C238.38 275 208.92 275 150 275C91.07 275 61.61 275 43.3 256.69C25 238.38 25 208.92 25 150C25 91.07 25 61.61 43.3 43.3C61.61 25 91.07 25 150 25C208.92 25 238.38 25 256.69 43.3C268.86 55.47 272.94 72.58 274.31 100" stroke="#6C584C" stroke-opacity="1.000000" stroke-width="6.000000" stroke-linecap="round"/>
+	</g>
+</svg>
